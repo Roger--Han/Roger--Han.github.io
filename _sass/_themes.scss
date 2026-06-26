@@ -1,0 +1,12 @@
+// Local theme override — iOS blue accent (overrides al_folio_core gem defaults).
+// Per al-folio v1.x docs: define only the variables you want to change.
+
+:root {
+  --global-theme-color: #0a84ff;
+  --global-hover-color: #0a84ff;
+}
+
+html[data-theme="dark"] {
+  --global-theme-color: #0a84ff;
+  --global-hover-color: #409cff;
+}

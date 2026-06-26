@@ -29,3 +29,9 @@ I'm a mobile engineer with 10+ years of native iOS experience building, shipping
 Recently my focus has expanded into AI-assisted mobile development. I build apps from scratch to store release across iOS and Android using Expo/React Native and Flutter, and I design the specs, reusable agent skills, and review workflows that keep AI-assisted code readable, tested, and production-quality.
 
 Take a look at my [CV](/cv/) for the full picture, or reach me by [email](mailto:roger.hanhong@gmail.com).
+
+<div style="display:flex;flex-wrap:wrap;gap:0.6rem;margin-top:1.4rem">
+  <a href="/cv/" style="display:inline-block;padding:0.5rem 1.1rem;border-radius:8px;background:#0a84ff;color:#fff;font-weight:600;text-decoration:none">View CV</a>
+  <a href="/projects/" style="display:inline-block;padding:0.5rem 1.1rem;border-radius:8px;border:1.5px solid #0a84ff;color:#0a84ff;font-weight:600;text-decoration:none">Projects</a>
+  <a href="mailto:roger.hanhong@gmail.com" style="display:inline-block;padding:0.5rem 1.1rem;border-radius:8px;border:1.5px solid #0a84ff;color:#0a84ff;font-weight:600;text-decoration:none">Email me</a>
+</div>

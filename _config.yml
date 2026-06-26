@@ -84,6 +84,7 @@ al_folio:
 
 navbar_fixed: true
 footer_fixed: true
+enable_navbar_social: true # display social icons (GitHub, email, App Store) in the navbar
 search_enabled: true
 socials_in_search: true
 posts_in_search: true
