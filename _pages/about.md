@@ -6,8 +6,6 @@ subtitle: Lead Mobile Engineer · Native iOS · React Native · AI-assisted deli
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
   more_info: >
     <p>Auckland, New Zealand</p>
     <p><a href="mailto:roger.hanhong@gmail.com">roger.hanhong@gmail.com</a></p>
